@@ -1,11 +1,15 @@
-/********** BACKGROUND ***********/
+/********** COLORS ***********/
+
+.grey {color:#555}
+
+/********** BACKGROUNDS ***********/
 
 .light_grey {background:#eee}
 
 /********** NAV ***********/
 
 nav {height:64px}
-nav #logo {line-height:64px;}
+nav #logo {line-height:64px}
 
 /********** FONTS ***********/
 
@@ -16,3 +20,7 @@ nav #logo {line-height:64px;}
 html, body {padding:0;margin:0;font-family:sans-serif}
 * {box-sizing:border-box}
 .container {width:1280px;max-width:90%;margin:auto}
+p {line-height:1.3em}
+
+
+

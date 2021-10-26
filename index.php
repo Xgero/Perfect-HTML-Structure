@@ -15,19 +15,15 @@
 
 	<body>
 
-		<nav class="light_grey">
-			<div class="container">
-				<span id="logo" class="strong">XGERO</span>
-			</div>
-		</nav>
+		<div class="container" id="nav" >
+			<span id="logo" class="strong">XGERO</span>
+		</div>
+			
+		<div class="container">
+			<h1>Perfect HTML Structure</h1>
+			<p class="grey">Cette structure web a pour but d’être la plus simple, fiable, compatible et valide avec la plupart des standards web. Xgero.com est une vitrine fonctionnelle de Perfect HTML Structure afin de servir d‘exemple d’utilisation via du contenu réel. </p>
+		</div>
 
-		<section>
-			<div class="container">
-				<h1>Perfect HTML Structure</h1>
-				<p class="grey">Cette structure web a pour but d’être la plus simple, fiable, compatible et valide avec la plupart des standards web. Xgero.com est une vitrine fonctionnelle de Perfect HTML Structure afin de servir d‘exemple d’utilisation via du contenu réel. </p>
-			</div>
-		</section>
-		
 	</body>
 
 </html>

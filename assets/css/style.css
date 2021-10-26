@@ -8,8 +8,8 @@
 
 /********** NAV ***********/
 
-nav {height:64px}
-nav #logo {line-height:64px}
+#nav {height:64px;border-bottom:1px solid #ddd}
+#nav #logo {line-height:64px}
 
 /********** FONTS ***********/
 

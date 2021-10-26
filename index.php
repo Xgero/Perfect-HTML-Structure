@@ -19,7 +19,7 @@
 			<span id="logo" class="strong">XGERO</span>
 		</div>
 			
-		<div class="container">
+		<div class="container m_t_xl">
 			<h1>Perfect HTML Structure</h1>
 			<p class="grey">Cette structure web a pour but d’être la plus simple, fiable, compatible et valide avec la plupart des standards web. 
 			Xgero.com est une vitrine fonctionnelle du projet Perfect HTML Structure afin de servir d‘exemple d’utilisation via du contenu réel. </p>

@@ -1,24 +1,31 @@
-/********** COLORS ***********/
+/********** MARGINS ***********/
+.m_t_xl {margin-top:72px}
+.m_r_xl {margin-right:72px}
+.m_b_xl {margin-bottom:72px}
+.m_l_xl {margin-left:72px}
 
+/********** PADDING ***********/
+.p_t_xl {padding-top:72px}
+.p_r_xl {padding-right:72px}
+.p_b_xl {padding-bottom:72px}
+.p_l_xl {padding-left:72px}
+
+/********** COLORS ***********/
 .grey {color:#555}
 
 /********** BACKGROUNDS ***********/
-
 .light_grey {background:#eee}
 
 /********** NAV ***********/
-
 #nav {height:64px;border-bottom:1px solid #ddd}
 #nav #logo {line-height:64px}
 
 /********** FONTS ***********/
-
 .strong {font-weight:bold}
 
 /********** GLOBALS ***********/
-
 html, body {padding:0;margin:0;font-family:sans-serif}
 * {box-sizing:border-box}
-.container {width:1280px;max-width:90%;margin:auto}
+.container {width:1280px;max-width:90%;margin-left:auto;margin-right:auto}
 p {line-height:1.5em}
 

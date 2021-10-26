@@ -1,0 +1,18 @@
+/********** BACKGROUND ***********/
+
+.light_grey {background:#eee}
+
+/********** NAV ***********/
+
+nav {height:64px}
+nav #logo {line-height:64px;}
+
+/********** FONTS ***********/
+
+.strong {font-weight:bold}
+
+/********** GLOBALS ***********/
+
+html, body {padding:0;margin:0;font-family:sans-serif}
+* {box-sizing:border-box}
+.container {width:1280px;max-width:90%;margin:auto}

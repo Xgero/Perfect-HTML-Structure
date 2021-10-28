@@ -38,8 +38,11 @@
 
 /********** NAV ***********/
 #nav {height:64px;border-bottom:1px solid #ddd}
-#nav #logo {line-height:64px}
-#nav #logo a {color:#000}
+#nav #logo {line-height:64px;display:table}
+#nav #logo a {color:#000;display:table-cell;vertical-align:middle}
+#nav #logo a:hover {text-decoration:none}
+#nav #logo img {height:40px;width:40px;margin-right:10px;display:table-cell;vertical-align:middle}
+
 
 /********** FONTS ***********/
 .font_strong {font-weight:bold}

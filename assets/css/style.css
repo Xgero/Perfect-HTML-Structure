@@ -4,6 +4,7 @@
 .col {display:table-cell}
 
 @media all and (max-width:620px) {
+.cols {display:block}
 .col {display:block}
 }
 

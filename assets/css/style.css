@@ -1,3 +1,9 @@
+/********** IMGS ***********/
+.img_border {border:1px solid #ccc}
+.img_shadow {box-shadow:0 15px 30px rgba(0,0,0,0.06)}
+
+/********** BORDER RADIUS ***********/
+.radius_16 {border-radius:16px}
 
 /********** COLS ***********/
 .cols {display:table;width:100%;table-layout:fixed}
@@ -31,33 +37,56 @@
 .p_l_l {padding-left:48px}
 
 /********** COLORS ***********/
-.grey {color:#555}
+.grey {color:#777}
 
 /********** BACKGROUNDS ***********/
-.light_grey {background:#eee}
+.bg-light_grey {background:#eee}
+.bg-white {background:#fff}
+
+/********** WIDTHS ***********/
+.vertical_a_middle {vertical-align:middle}
+.vertical_a_top {vertical-align:top}
+.vertical_a_bottom {vertical-align:bottom}
+
+/********** WIDTHS ***********/
+.width50 {width:48%;display:table-cell}
+.left.width50 {padding-right:2%}
+.right.width50 {padding-left:2%}
+@media all and (max-width:620px) {
+.width50 {width:100%;display:block}
+.left.width50 {padding-right:0}
+.right.width50 {padding-left:0}
+}
 
 /********** NAV ***********/
 #nav {height:64px;border-bottom:1px solid #ddd}
-#nav #logo {display:table;width:100%;}
+#nav #logo {display:table;width:100%}
 #nav #logo a:hover {text-decoration:none}
 #nav #logo div {display:table-cell;vertical-align:middle;height:64px;color:#000}
-#nav #logo a img {height:40px;width:40px;margin-right:10px;}
+#nav #logo a img {height:40px;width:40px;margin-right:10px}
 
 
 /********** FONTS ***********/
+
+h1 {font-size:3em}
+@media all and (max-width:620px) {
+h1 {font-size:2.2em}
+}
+
 .font_strong {font-weight:bold}
 .font_small {font-size:0.9em}
+.weight-normal {font-weight:normal}
 
 /********** GLOBALS ***********/
-html, body {padding:0;margin:0;font-family:sans-serif}
+html, body {padding:0;margin:0;font-family:sans-serif;background:#f7f7f7}
 * {box-sizing:border-box}
 .container {width:1280px;max-width:90%;margin-left:auto;margin-right:auto}
-p {line-height:1.5em}
+p {line-height:1.7em}
 ul {padding:0;list-style-type:none}
-li {line-height:1.5em}
+li {line-height:1.7em}
 a {color:blue;text-decoration:none}
 a:hover {text-decoration:underline}
-
+img {max-width:100%;height:auto}
 
 
 

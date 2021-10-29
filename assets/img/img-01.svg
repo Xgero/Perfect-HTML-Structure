@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 557 289.1" style="enable-background:new 0 0 557 289.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<rect x="1.4" y="33.6" class="st0" width="553.6" height="219.2"/>
+<g>
+	<path class="st1" d="M326.5,55.8h-96.6c-12.3,0-22.2-9.9-22.2-22.2v0c0-12.3,9.9-22.2,22.2-22.2h96.6c12.3,0,22.2,9.9,22.2,22.2v0
+		C348.7,45.8,338.8,55.8,326.5,55.8z"/>
+	<circle class="st0" cx="278.2" cy="33.6" r="13.7"/>
+	<g>
+		<circle class="st0" cx="231.6" cy="33.6" r="13.7"/>
+		<circle class="st0" cx="324.8" cy="33.6" r="13.7"/>
+	</g>
+	<line class="st0" x1="231.6" y1="19.9" x2="231.6" y2="47.3"/>
+	<line class="st0" x1="287.9" y1="23.9" x2="268.5" y2="43.3"/>
+	<line class="st0" x1="338.5" y1="33.6" x2="311.1" y2="33.6"/>
+</g>
+<g>
+	<path class="st1" d="M457.2,180.3H99.3c-20.5,0-37.1-16.6-37.1-37.1v0c0-20.5,16.6-37.1,37.1-37.1h357.9
+		c20.5,0,37.1,16.6,37.1,37.1v0C494.3,163.7,477.7,180.3,457.2,180.3z"/>
+	<g>
+		<line class="st0" x1="62.1" y1="143.2" x2="1.4" y2="143.2"/>
+		<line class="st0" x1="555" y1="143.2" x2="494.3" y2="143.2"/>
+	</g>
+	<g>
+		<polyline class="st0" points="89.8,160.9 89.8,125.5 118.8,160.9 		"/>
+		<polyline class="st0" points="118.8,160.9 118.8,125.5 147.8,160.9 		"/>
+		<polyline class="st0" points="147.8,160.9 147.8,125.5 176.8,160.9 		"/>
+		<polyline class="st0" points="176.8,160.9 176.8,125.5 205.8,160.9 		"/>
+		<polyline class="st0" points="205.8,160.9 205.8,125.5 234.7,160.9 		"/>
+		<polyline class="st0" points="234.7,160.9 234.7,125.5 263.7,160.9 		"/>
+		<polyline class="st0" points="263.7,160.9 263.7,125.5 292.7,160.9 		"/>
+		<polyline class="st0" points="292.7,160.9 292.7,125.5 321.7,160.9 		"/>
+		<polyline class="st0" points="321.7,160.9 321.7,125.5 350.7,160.9 		"/>
+		<polyline class="st0" points="350.7,160.9 350.7,125.5 379.7,160.9 		"/>
+		<polyline class="st0" points="379.7,160.9 379.7,125.5 408.7,160.9 		"/>
+		<polyline class="st0" points="408.7,160.9 408.7,125.5 437.7,160.9 		"/>
+		<polyline class="st0" points="437.7,160.9 437.7,125.5 466.7,160.9 466.7,125.5 		"/>
+	</g>
+</g>
+<circle class="st1" cx="278.2" cy="252.8" r="31.2"/>
+<line class="st0" x1="278.2" y1="230.1" x2="278.2" y2="252.8"/>
+</svg>

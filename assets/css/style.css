@@ -1,9 +1,12 @@
+table {width:100%}
+
 /********** IMGS ***********/
 .img_border {border:1px solid #ccc}
 .img_shadow {box-shadow:0 15px 30px rgba(0,0,0,0.06)}
 
 /********** BORDER RADIUS ***********/
 .radius_16 {border-radius:16px}
+.radius {border-radius:100%}
 
 /********** COLS ***********/
 .cols {display:table;width:100%;table-layout:fixed}
@@ -43,10 +46,14 @@
 .bg-light_grey {background:#eee}
 .bg-white {background:#fff}
 
-/********** WIDTHS ***********/
+/********** ALIGNS ***********/
 .vertical_a_middle {vertical-align:middle}
 .vertical_a_top {vertical-align:top}
 .vertical_a_bottom {vertical-align:bottom}
+
+.align_left {text-align:left}
+.align_right {text-align:right}
+.align_center{text-align:center}
 
 /********** WIDTHS ***********/
 .width50 {width:48%;display:table-cell}

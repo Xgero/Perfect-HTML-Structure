@@ -1,3 +1,5 @@
+/********** TABLE ***********/
+
 table {width:100%}
 
 /********** IMGS ***********/
@@ -28,6 +30,11 @@ table {width:100%}
 .m_b_l {margin-bottom:48px}
 .m_l_l {margin-left:48px}
 
+.m_t_s {margin-top:24px}
+.m_r_s {margin-right:24px}
+.m_b_s {margin-bottom:24px}
+.m_l_s {margin-left:24px}
+
 /********** PADDING ***********/
 .p_t_xl {padding-top:72px}
 .p_r_xl {padding-right:72px}
@@ -38,6 +45,11 @@ table {width:100%}
 .p_r_l {padding-right:48px}
 .p_b_l {padding-bottom:48px}
 .p_l_l {padding-left:48px}
+
+.p_t_s {padding-top:24px}
+.p_r_s {padding-right:24px}
+.p_b_s {padding-bottom:24px}
+.p_l_s {padding-left:24px}
 
 /********** COLORS ***********/
 .grey {color:#777}
@@ -57,6 +69,7 @@ table {width:100%}
 
 /********** WIDTHS ***********/
 .width50 {width:48%;display:table-cell}
+.width100 {width:100%;display:table-cell}
 .left.width50 {padding-right:2%}
 .right.width50 {padding-left:2%}
 @media all and (max-width:620px) {
@@ -64,6 +77,9 @@ table {width:100%}
 .left.width50 {padding-right:0}
 .right.width50 {padding-left:0}
 }
+
+.min_150 {min-width:150px}
+.min_100 {min-width:100px}
 
 /********** NAV ***********/
 #nav {height:64px;border-bottom:1px solid #ddd}
@@ -94,6 +110,14 @@ li {line-height:1.7em}
 a {color:blue;text-decoration:none}
 a:hover {text-decoration:underline}
 img {max-width:100%;height:auto}
+.no_event {pointer-events:none}
+label {font-weight:bold}
 
+/********** DISPLAY ***********/
 
+.displaynone {display:none;}
+
+@media all and (max-width:480px) {
+.hide_on_mobile {display:none;
+}
 
